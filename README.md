@@ -8,3 +8,10 @@ The companion PDF presentation covers the exercises done in class. The participa
 Installation
 ----------------------------
 This script has been written and tested using Python 2.7 (Anaconda Pyton Distribution)
+
+Modules required:
+- csv
+- os.path
+- re
+- time
+- urllib
